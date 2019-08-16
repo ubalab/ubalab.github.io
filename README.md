@@ -1,5 +1,5 @@
-## Ubalab.github.io
+## ubalab.github.io
 
-Espaço de testes para o [UbaLab.](http://ubalab.org).
+Backup do website [UbaLab.](http://ubalab.org), desativado em agosto de 2019.
 
-[Demo de apresentação](sei) para o projeto sei.eco.
++ [Demo de apresentação](sei) para o projeto sei.eco.
