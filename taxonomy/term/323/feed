@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://ubalab.org"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>UbaLab. - tropixel labs</title>
+ <link>http://ubalab.org/taxonomy/term/323</link>
+ <description></description>
+ <language>pt-br</language>
+<item>
+ <title>Tropixel Labs - Oficina Baobáxia / Piratebox</title>
+ <link>http://ubalab.org/node/154</link>
+ <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Como parte da programação do festival &lt;a href=&quot;http://tropixel.ubalab.org/pt-br/tropixel-labs&quot; rel=&quot;nofollow&quot;&gt;Tropixel Labs&lt;/a&gt;, o Ubalab recebeu a oficina conjunta entre Vincenzo Tozzi (coordenador do &lt;a href=&quot;http://baobaxia.mocambos.net&quot; rel=&quot;nofollow&quot;&gt;&lt;/a&gt;projeto Baobáxia) e Julien Bellanger (integrante do &lt;a href=&quot;http://www.pingbase.net&quot; rel=&quot;nofollow&quot;&gt;&lt;/a&gt;PiNG, em Nantes).
+
+&lt;img src=&quot;https://farm6.staticflickr.com/5786/22677832882_8c84b1067e_z_d.jpg&quot; /&gt;&lt;img src=&quot;https://farm6.staticflickr.com/5710/22702445261_8d1b8b17f0_z_d.jpg&quot; /&gt;&lt;p&gt;A oficina adotou o formato de laboratório aberto focado em redes digitais autônomas ou locais. Vince apresentou o projeto Baobáxia, software livre desenvolvido para conectar pontos e integrar acervos em todo o Brasil - em especial entre quilombos, aldeias, ribeirinhos e outras comunidades tradicionais. Julien Bellanger, além de apresentar o PiNG, demonstrou também a Piratebox - sistema que roda em um roteador portátil de baixo custo.
+
+&lt;img src=&quot;https://farm1.staticflickr.com/673/22068569064_0d191b4102_z_d.jpg&quot; /&gt;&lt;/p&gt;&lt;p&gt;Os participantes instalaram o sistema Baobáxia em uma Raspberry Pi e exploraram a possibilidade de utilizar da Raspi para enviar os dados coletados pela Estação Meteorológica Modular trabalhada na oficina de &lt;a href=&quot;http://cienciaaberta.ubatuba.cc/blog/1512/tropixel-labs-oficina-esta%C3%A7%C3%B5es-meteorol%C3%B3gicas-modulares&quot; rel=&quot;nofollow&quot;&gt;Estações Meteorológicas Modulares&lt;/a&gt; do dia anterior.
+
+&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Veja também:&lt;/strong&gt; 
+&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;strong&gt;&lt;a href=&quot;http://tropixel.ubalab.org/pt-br/blog/tropixel-labs-outros-desenvolvimentos&quot; rel=&quot;nofollow&quot;&gt;Documentação geral do Tropixel Labs&lt;/a&gt;&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-taxonomy-vocabulary-1 field-type-taxonomy-term-reference field-label-above&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Tags:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/tag/tropixel&quot;&gt;tropixel&lt;/a&gt;&lt;/div&gt;&lt;div class=&quot;field-item odd&quot;&gt;&lt;a href=&quot;/taxonomy/term/323&quot;&gt;tropixel labs&lt;/a&gt;&lt;/div&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/tag/oficinas&quot;&gt;oficinas&lt;/a&gt;&lt;/div&gt;&lt;div class=&quot;field-item odd&quot;&gt;&lt;a href=&quot;/tag/zasf&quot;&gt;zasf&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Sun, 06 Dec 2015 06:33:15 +0000</pubDate>
+ <dc:creator>efeefe</dc:creator>
+ <guid isPermaLink="false">154 at http://ubalab.org</guid>
+</item>
+</channel>
+</rss>

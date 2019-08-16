@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://ubalab.org"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>UbaLab. - oficinas</title>
+ <link>http://ubalab.org/tag/oficinas</link>
+ <description></description>
+ <language>pt-br</language>
+<item>
+ <title>Tropixel Labs - Oficina Baobáxia / Piratebox</title>
+ <link>http://ubalab.org/node/154</link>
+ <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Como parte da programação do festival &lt;a href=&quot;http://tropixel.ubalab.org/pt-br/tropixel-labs&quot; rel=&quot;nofollow&quot;&gt;Tropixel Labs&lt;/a&gt;, o Ubalab recebeu a oficina conjunta entre Vincenzo Tozzi (coordenador do &lt;a href=&quot;http://baobaxia.mocambos.net&quot; rel=&quot;nofollow&quot;&gt;&lt;/a&gt;projeto Baobáxia) e Julien Bellanger (integrante do &lt;a href=&quot;http://www.pingbase.net&quot; rel=&quot;nofollow&quot;&gt;&lt;/a&gt;PiNG, em Nantes).
+
+&lt;img src=&quot;https://farm6.staticflickr.com/5786/22677832882_8c84b1067e_z_d.jpg&quot; /&gt;&lt;img src=&quot;https://farm6.staticflickr.com/5710/22702445261_8d1b8b17f0_z_d.jpg&quot; /&gt;&lt;p&gt;A oficina adotou o formato de laboratório aberto focado em redes digitais autônomas ou locais. Vince apresentou o projeto Baobáxia, software livre desenvolvido para conectar pontos e integrar acervos em todo o Brasil - em especial entre quilombos, aldeias, ribeirinhos e outras comunidades tradicionais. Julien Bellanger, além de apresentar o PiNG, demonstrou também a Piratebox - sistema que roda em um roteador portátil de baixo custo.
+
+&lt;img src=&quot;https://farm1.staticflickr.com/673/22068569064_0d191b4102_z_d.jpg&quot; /&gt;&lt;/p&gt;&lt;p&gt;Os participantes instalaram o sistema Baobáxia em uma Raspberry Pi e exploraram a possibilidade de utilizar da Raspi para enviar os dados coletados pela Estação Meteorológica Modular trabalhada na oficina de &lt;a href=&quot;http://cienciaaberta.ubatuba.cc/blog/1512/tropixel-labs-oficina-esta%C3%A7%C3%B5es-meteorol%C3%B3gicas-modulares&quot; rel=&quot;nofollow&quot;&gt;Estações Meteorológicas Modulares&lt;/a&gt; do dia anterior.
+
+&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Veja também:&lt;/strong&gt; 
+&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;strong&gt;&lt;a href=&quot;http://tropixel.ubalab.org/pt-br/blog/tropixel-labs-outros-desenvolvimentos&quot; rel=&quot;nofollow&quot;&gt;Documentação geral do Tropixel Labs&lt;/a&gt;&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-taxonomy-vocabulary-1 field-type-taxonomy-term-reference field-label-above&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Tags:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/tag/tropixel&quot;&gt;tropixel&lt;/a&gt;&lt;/div&gt;&lt;div class=&quot;field-item odd&quot;&gt;&lt;a href=&quot;/taxonomy/term/323&quot;&gt;tropixel labs&lt;/a&gt;&lt;/div&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/tag/oficinas&quot;&gt;oficinas&lt;/a&gt;&lt;/div&gt;&lt;div class=&quot;field-item odd&quot;&gt;&lt;a href=&quot;/tag/zasf&quot;&gt;zasf&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Sun, 06 Dec 2015 06:33:15 +0000</pubDate>
+ <dc:creator>efeefe</dc:creator>
+ <guid isPermaLink="false">154 at http://ubalab.org</guid>
+</item>
+<item>
+ <title>Ubalab no Portal Aprendiz</title>
+ <link>http://ubalab.org/blog/ubalab-no-portal-aprendiz</link>
+ <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;p&gt;O Portal Aprendiz na semana passada retratou o Ubalab, com foco especial nas oficinas de cartografia distribuída que fizemos na cidade e região. &lt;a href=&quot;http://portal.aprendiz.uol.com.br/2014/11/27/em-ubatuba-laboratorio-experimental-faz-ponte-entre-tecnologia-e-sociedade/&quot; rel=&quot;nofollow&quot;&gt;Leia aqui&lt;/a&gt; a matéria completa.&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&quot;&quot; src=&quot;http://portal.aprendiz.uol.com.br/wp-content/uploads/2014/11/uba1.jpg&quot; /&gt;&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-taxonomy-vocabulary-1 field-type-taxonomy-term-reference field-label-above&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Tags:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/tag/geo&quot;&gt;geo&lt;/a&gt;&lt;/div&gt;&lt;div class=&quot;field-item odd&quot;&gt;&lt;a href=&quot;/tag/cartografia&quot;&gt;cartografia&lt;/a&gt;&lt;/div&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/tag/oficinas&quot;&gt;oficinas&lt;/a&gt;&lt;/div&gt;&lt;div class=&quot;field-item odd&quot;&gt;&lt;a href=&quot;/tag/midia&quot;&gt;mídia&lt;/a&gt;&lt;/div&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/tag/clipping&quot;&gt;clipping&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Mon, 01 Dec 2014 14:15:09 +0000</pubDate>
+ <dc:creator>efeefe</dc:creator>
+ <guid isPermaLink="false">148 at http://ubalab.org</guid>
+</item>
+<item>
+ <title>Oficina Mapas Digitais: Cartografia Colaborativa</title>
+ <link>http://ubalab.org/blog/oficina-mapas-digitais-cartografia-colaborativa</link>
+ <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;p&gt;&lt;strong&gt;Coordenação:&lt;/strong&gt; Felipe Fonseca&lt;br /&gt;&lt;strong&gt;29/3&lt;/strong&gt; - sábado - 10h às 17h (pausa de 1h para almoço)&lt;br /&gt;&lt;strong&gt;Público:&lt;/strong&gt; interessados na técnica da cartografia para fins culturais&lt;br /&gt;&lt;strong&gt;Inscrições:&lt;/strong&gt; 7/1 a 21/3&lt;br /&gt;&lt;strong&gt;Seleção:&lt;/strong&gt; primeiros inscritos&lt;br /&gt;&lt;strong&gt;25 vagas&lt;/strong&gt;&lt;br /&gt;&lt;strong&gt;Local:&lt;/strong&gt; Rua Coronel Domingues de Castro, 33 – Centro&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;São Luiz do Paraitinga&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;img alt=&quot;&quot; src=&quot;/sites/ubalab.org/files/images/10006076_223685334497906_2094761193_o.jpg&quot; width=&quot;500&quot; /&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Em tempos recentes, uma série de novas tecnologias digitais vem possibilitando a utilização de informações geográficas para repensar o lugar do indivíduo e da comunidade no mundo. Esta oficina promoverá reflexões sobre o papel dos mapas digitais na sociedade contemporânea, expondo usos criativos da cartografia como elemento de identidade e engajamento social.&lt;/p&gt;
+&lt;p&gt;Felipe Fonseca é mestrando em Divulgação Cientifica e Cultural (Labjor-Unicamp), pesquisador, curador, escritor e articulador de projetos de apropriação crítica de tecnologias digitais, laboratórios de mídia, arte eletrônica, cultura digital experimental e colaboração em rede. É cofundador da rede MetaReciclagem (2002), do coletivo Desvio (2009), do blog Lixo Eletrônico (2008), da plataforma Rede//Labs (2010) e de diversas outras iniciativas, como o núcleo Ubalab, o coletivo editorial MutGamb e a rede Bricolabs.&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-taxonomy-vocabulary-1 field-type-taxonomy-term-reference field-label-above&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Tags:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/tag/geo&quot;&gt;geo&lt;/a&gt;&lt;/div&gt;&lt;div class=&quot;field-item odd&quot;&gt;&lt;a href=&quot;/tag/cartografia&quot;&gt;cartografia&lt;/a&gt;&lt;/div&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/tag/ubalab&quot;&gt;ubalab&lt;/a&gt;&lt;/div&gt;&lt;div class=&quot;field-item odd&quot;&gt;&lt;a href=&quot;/tag/oficinas&quot;&gt;oficinas&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Wed, 12 Mar 2014 00:32:34 +0000</pubDate>
+ <dc:creator>efeefe</dc:creator>
+ <guid isPermaLink="false">134 at http://ubalab.org</guid>
+</item>
+<item>
+ <title>Oficinas - Rádio e Mapas</title>
+ <link>http://ubalab.org/blog/oficinas-radio-e-mapas</link>
+ <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;p&gt;Publicando alguns resultados das oficinas de Rádio e Mapas que desenvolvemos na Semana de Educação de Ubatuba:&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;
+		&lt;a href=&quot;https://soundcloud.com/efeefe/ubatuba-sim-como-assim&quot; rel=&quot;nofollow&quot;&gt;Programinha de rádio &quot;Ubatuba Sim - Como Assim?&quot;&lt;/a&gt; falando sobre a onda de frio na cidade.&lt;/li&gt;
+	&lt;li&gt;
+		Fotos da oficina de Mapas digitais, abaixo (veja mais no &lt;a href=&quot;https://www.flickr.com/photos/felipefonseca/sets/72157624852757243/&quot; rel=&quot;nofollow&quot;&gt;Set Ubalab&lt;/a&gt; do Flickr).&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt;&lt;br /&gt;&lt;img alt=&quot;&quot; src=&quot;https://farm8.staticflickr.com/7411/9380416302_81a3393781_d.jpg&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&quot;&quot; src=&quot;https://farm4.staticflickr.com/3796/9377612881_f168f55f12_d.jpg&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&quot;&quot; src=&quot;https://farm6.staticflickr.com/5550/9377607961_92d187b370_d.jpg&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&quot;&quot; src=&quot;https://farm3.staticflickr.com/2891/9380395782_7123fc4840_d.jpg&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&quot;&quot; src=&quot;https://farm8.staticflickr.com/7439/9377591715_de9c6b9cbe_d.jpg&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&quot;&quot; src=&quot;https://farm4.staticflickr.com/3770/9380379524_ee6ca37248_d.jpg&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&quot;&quot; src=&quot;https://farm4.staticflickr.com/3765/9377574675_4016dc3d9f_d.jpg&quot; /&gt;&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-taxonomy-vocabulary-1 field-type-taxonomy-term-reference field-label-above&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Tags:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/tag/ubatuba&quot;&gt;ubatuba&lt;/a&gt;&lt;/div&gt;&lt;div class=&quot;field-item odd&quot;&gt;&lt;a href=&quot;/tag/geo&quot;&gt;geo&lt;/a&gt;&lt;/div&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/tag/eventos&quot;&gt;eventos&lt;/a&gt;&lt;/div&gt;&lt;div class=&quot;field-item odd&quot;&gt;&lt;a href=&quot;/tag/oficinas&quot;&gt;oficinas&lt;/a&gt;&lt;/div&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/tag/semana&quot;&gt;semana&lt;/a&gt;&lt;/div&gt;&lt;div class=&quot;field-item odd&quot;&gt;&lt;a href=&quot;/tag/radio&quot;&gt;radio&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Sat, 27 Jul 2013 20:37:32 +0000</pubDate>
+ <dc:creator>efeefe</dc:creator>
+ <guid isPermaLink="false">122 at http://ubalab.org</guid>
+</item>
+<item>
+ <title>Oficinas Ubalab</title>
+ <link>http://ubalab.org/blog/oficinas-ubalab</link>
+ <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;p&gt;Eu e Jorge Miguez estamos ministrando duas oficinas na Semana de Educação de Ubatuba, que acontece nos próximos dias na Escola Municipal Tancredo Neves. Uma oficina é sobre mapeamento digital, propondo maneiras de utilização da cartografia experimental como ferramenta de educação, problematização social e conscientização política. A outra oficina é sobre rádio digital, com foco no ambiente escolar.&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-taxonomy-vocabulary-1 field-type-taxonomy-term-reference field-label-above&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Tags:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/tag/ubatuba&quot;&gt;ubatuba&lt;/a&gt;&lt;/div&gt;&lt;div class=&quot;field-item odd&quot;&gt;&lt;a href=&quot;/tag/eventos&quot;&gt;eventos&lt;/a&gt;&lt;/div&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/tag/oficinas&quot;&gt;oficinas&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Mon, 22 Jul 2013 19:26:48 +0000</pubDate>
+ <dc:creator>efeefe</dc:creator>
+ <guid isPermaLink="false">120 at http://ubalab.org</guid>
+</item>
+<item>
+ <title>Ajude a viabilizar o Encontrão Hipertropical de MetaReciclagem!</title>
+ <link>http://ubalab.org/blog/ajude-viabilizar-o-encontrao-hipertropical-de-metareciclagem</link>
+ <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;p&gt;Daqui a menos de duas semanas, Ubatuba receberá pessoas vindas de diferentes partes do Brasil para o &lt;a href=&quot;http://rede.metareciclagem.org/wiki/EncontraoHiperTropical&quot; rel=&quot;nofollow&quot;&gt;Encontrão Hipertropical de MetaReciclagem&lt;/a&gt;. O evento vai sediar conversas, oficinas e troca de experiências. Para viabilizar o encontro, estamos precisando de ajuda. Está no ar uma vaquinha, que aceita doações em qualquer valor para viabilizar o transporte, hospedagem e alimentação dos convidados do encontrão. Saiba mais (e ajude!) &lt;a href=&quot;http://rede.metareciclagem.org/wiki/HiperTropicalAjude&quot; rel=&quot;nofollow&quot;&gt;aqui&lt;/a&gt;.&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-taxonomy-vocabulary-1 field-type-taxonomy-term-reference field-label-above&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Tags:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/tag/ubatuba&quot;&gt;ubatuba&lt;/a&gt;&lt;/div&gt;&lt;div class=&quot;field-item odd&quot;&gt;&lt;a href=&quot;/tag/metareciclagem&quot;&gt;metareciclagem&lt;/a&gt;&lt;/div&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/tag/encontrao&quot;&gt;encontrão&lt;/a&gt;&lt;/div&gt;&lt;div class=&quot;field-item odd&quot;&gt;&lt;a href=&quot;/tag/encontrao-hipertropical&quot;&gt;encontrão hipertropical&lt;/a&gt;&lt;/div&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/tag/eventos&quot;&gt;eventos&lt;/a&gt;&lt;/div&gt;&lt;div class=&quot;field-item odd&quot;&gt;&lt;a href=&quot;/tag/angaa&quot;&gt;angaa&lt;/a&gt;&lt;/div&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/tag/fundacao-alavanca&quot;&gt;fundação alavanca&lt;/a&gt;&lt;/div&gt;&lt;div class=&quot;field-item odd&quot;&gt;&lt;a href=&quot;/tag/oficinas&quot;&gt;oficinas&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Mon, 14 May 2012 21:54:07 +0000</pubDate>
+ <dc:creator>efeefe</dc:creator>
+ <guid isPermaLink="false">76 at http://ubalab.org</guid>
+</item>
+</channel>
+</rss>

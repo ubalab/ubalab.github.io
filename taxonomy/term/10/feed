@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://ubalab.org"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>UbaLab. - esporo</title>
+ <link>http://ubalab.org/category/tags/esporo</link>
+ <description></description>
+ <language>pt-br</language>
+<item>
+ <title>Refatorando</title>
+ <link>http://ubalab.org/blog/refatorando</link>
+ <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;p&gt;Este site começou como um ambiente de testes de um projeto que estou  concebendo há um par de anos para desenvolver em Ubatuba (alguma documentação dos processos que levaram a ele está disponível &lt;a href=&quot;http://rede.metareciclagem.org/wiki/UbaTuba&quot; rel=&quot;nofollow&quot;&gt;aqui&lt;/a&gt;). O projeto foi recentemente selecionado no prêmio &lt;a href=&quot;http://www.cultura.gov.br/site/2010/03/10/edital-cultura-digital-2010/&quot; rel=&quot;nofollow&quot;&gt;Esporos de Cultura Digital&lt;/a&gt; do Ministério da Cultura (com base no texto  publicado &lt;a href=&quot;http://rede.metareciclagem.org/wiki/UbaLab&quot; rel=&quot;nofollow&quot;&gt;aqui&lt;/a&gt;). Como eu já tinha também publicado alguns &lt;a href=&quot;http://ubalab.org/blog&quot; rel=&quot;nofollow&quot;&gt;posts de blog&lt;/a&gt; aqui, resolvi aproveitar o site e migrá-lo para um domínio próprio (&lt;a href=&quot;http://ubalab.org&quot; rel=&quot;nofollow&quot;&gt;ubalab.org&lt;/a&gt;). Ainda não sei quando vou efetivamente começar a implementar o projeto, mas já vou aproveitar pra registrar os avanços e investigações por aqui. Por enquanto, o site vai ficar com esse tema.&lt;/p&gt;
+&lt;p&gt;As investigações com mapas (sobre as quais comentei &lt;a href=&quot;http://ubalab.org/blog&quot; rel=&quot;nofollow&quot;&gt;aqui&lt;/a&gt;) foram desativadas desse site e serão ressuscitadas em um subdomínio próprio quando chegar a hora.&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-taxonomy-vocabulary-1 field-type-taxonomy-term-reference field-label-above&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Tags:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/category/tags/site&quot;&gt;site&lt;/a&gt;&lt;/div&gt;&lt;div class=&quot;field-item odd&quot;&gt;&lt;a href=&quot;/category/tags/projetos&quot;&gt;projetos&lt;/a&gt;&lt;/div&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/category/tags/edital&quot;&gt;edital&lt;/a&gt;&lt;/div&gt;&lt;div class=&quot;field-item odd&quot;&gt;&lt;a href=&quot;/category/tags/esporo&quot;&gt;esporo&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Sat, 21 Aug 2010 01:19:59 +0000</pubDate>
+ <dc:creator>efeefe</dc:creator>
+ <guid isPermaLink="false">11 at http://ubalab.org</guid>
+</item>
+</channel>
+</rss>

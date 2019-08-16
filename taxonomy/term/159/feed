@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://ubalab.org"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>UbaLab. - josm</title>
+ <link>http://ubalab.org/tag/josm</link>
+ <description></description>
+ <language>pt-br</language>
+<item>
+ <title>Traçando e seguindo</title>
+ <link>http://ubalab.org/blog/tracando-e-seguindo</link>
+ <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;p&gt;Experimentando por aqui com rastros de GPS, desenho de mapas, &lt;a href=&quot;http://wiki.openstreetmap.org/wiki/Mapping_techniques&quot; rel=&quot;nofollow&quot;&gt;técnicas de mapeamento&lt;/a&gt; e outras coisas. Usei um pouco do &lt;a href=&quot;http://qgis.org/&quot; rel=&quot;nofollow&quot;&gt;Quantum GIS&lt;/a&gt; (com o qual já tinha brincado um pouco no &lt;a href=&quot;http://blog.redelabs.org/blog/hacklab-enredado&quot; rel=&quot;nofollow&quot;&gt;Pará&lt;/a&gt;), interessante pra aplicações mais complexos, e com o &lt;a href=&quot;http://merkaartor.be/&quot; rel=&quot;nofollow&quot;&gt;Merkaartor&lt;/a&gt; - mas acabei me contentando com o &lt;a href=&quot;http://josm.openstreetmap.de/&quot; rel=&quot;nofollow&quot;&gt;JOSM&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&quot;JOSM - baixando mapa&quot; src=&quot;http://farm8.staticflickr.com/7162/6814997095_c2eafa5202_d.jpg&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;Fiquei surpreso ao descobrir que muitas ruas do centro de Ubatuba foram desenhadas no &lt;a href=&quot;http://openstreetmap.org&quot; rel=&quot;nofollow&quot;&gt;OSM&lt;/a&gt; desde a última vez que tinha olhado.&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&quot;JOSM - Ubatuba&quot; src=&quot;http://farm8.staticflickr.com/7022/6814997109_8f445caea3_d.jpg&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;Pude constatar que muitas das trilhas que eu capturo direto na rua, com o &lt;a href=&quot;http://code.google.com/p/osmtracker-android/&quot; rel=&quot;nofollow&quot;&gt;OSM Tracker no celular&lt;/a&gt;, têm uma oscilação muito grande de precisão. Sobrepor uma imagem aérea me deu uma segurança muito maior para visualizar, corrigir e adicionar trechos de ruas.&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&quot;JOSM - Foto aérea - Ilha dos pescadores&quot; src=&quot;http://farm8.staticflickr.com/7152/6814997111_828d5d6885_d.jpg&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;Mas desenhar as ruas é só o começo. Daqui para a frente, a ideia é taguear e identificar todos os caminhos. Ainda preciso estudar algumas coisas: a inserção de pontos como as estações rodoviárias, as definições de &lt;a href=&quot;http://wiki.openstreetmap.org/wiki/Bicycle&quot; rel=&quot;nofollow&quot;&gt;ciclovias e ciclofaixas&lt;/a&gt;, a padronização de tags, e por aí vai. De todo modo, o site &lt;a href=&quot;http://mapas.ubalab.org/&quot; rel=&quot;nofollow&quot;&gt;Mapas.Ubalab&lt;/a&gt; já está no ar em caráter experimental, e assim que establizarmos o sistema vamos acrescentar a ele mais pontos de interesse social, cultural, ambiental e turístico.&lt;/p&gt;
+&lt;p&gt;Estamos também pensando em um mapa dedicado aos caminhos para bicicletas em Ubatuba, usando o OSM para colaborar com o &lt;a href=&quot;http://www.opencyclemap.org/&quot; rel=&quot;nofollow&quot;&gt;OpenCycleMap&lt;/a&gt;.&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-taxonomy-vocabulary-1 field-type-taxonomy-term-reference field-label-above&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Tags:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/tag/mapas&quot;&gt;mapas&lt;/a&gt;&lt;/div&gt;&lt;div class=&quot;field-item odd&quot;&gt;&lt;a href=&quot;/tag/geo&quot;&gt;geo&lt;/a&gt;&lt;/div&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/tag/mapeamento&quot;&gt;mapeamento&lt;/a&gt;&lt;/div&gt;&lt;div class=&quot;field-item odd&quot;&gt;&lt;a href=&quot;/tag/openstreetmap&quot;&gt;openstreetmap&lt;/a&gt;&lt;/div&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/tag/josm&quot;&gt;josm&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Sun, 26 Feb 2012 03:27:18 +0000</pubDate>
+ <dc:creator>efeefe</dc:creator>
+ <guid isPermaLink="false">65 at http://ubalab.org</guid>
+</item>
+</channel>
+</rss>

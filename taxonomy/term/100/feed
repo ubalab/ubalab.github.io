@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://ubalab.org"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>UbaLab. - ilha anchieta</title>
+ <link>http://ubalab.org/tag/ilha-anchieta</link>
+ <description></description>
+ <language>pt-br</language>
+<item>
+ <title>Editando mapas</title>
+ <link>http://ubalab.org/blog/editando-mapas</link>
+ <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;p&gt;Na sequência e inspirado pela minha &lt;a href=&quot;http://blog.redelabs.org/blog/hacklab-enredado&quot; rel=&quot;nofollow&quot;&gt;ida ao norte&lt;/a&gt;, comecei a montar o site &lt;a href=&quot;http://mapas.ubalab.org&quot; rel=&quot;nofollow&quot;&gt;mapas.ubalab&lt;/a&gt; como espaço para testar tecnologias para o mapeamento geográfico agregado de camadas de informação. Restaurei um backup do site com drupal e openlayers que &lt;a href=&quot;http://rede.metareciclagem.org/wiki/DrupalOpenLayers&quot; rel=&quot;nofollow&quot;&gt;montei ano passado&lt;/a&gt;, atualizei alguns módulos e reconfigurei algumas coisas. Na função de selecionar o trecho do mapa que queria exibir na home do site, percebi uma coisa estranha. Ilhabela estava muito próxima de Ubatuba. Olhando melhor, entendi que alguém tinha confundido a Ilha Anchieta com Ilhabela.&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&quot;Mapa errado&quot; src=&quot;http://farm7.static.flickr.com/6218/6235598915_1ed19b9d80_o_d.png&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;Abri o &lt;a href=&quot;http://wiki.openstreetmap.org/wiki/Potlatch_2&quot; rel=&quot;nofollow&quot;&gt;Potlatch&lt;/a&gt; para alterar o nome da ilha. Na hora o nome continuou errado. Consultei o &lt;a href=&quot;http://nighto.net&quot; rel=&quot;nofollow&quot;&gt;Arlindo&lt;/a&gt;, que comentou que às vezes demora algum tempo para renderizar. Saquei a imagem acima para registrar a mudança. Depois de alguns dias, o nome certo da Ilha Anchieta já aparecia em alguns níveis de zoom. Semana passada verifiquei que a mudança já estava feita, em todos os níveis.&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&quot;Mapa corrigido&quot; src=&quot;http://farm7.static.flickr.com/6161/6235598919_669fdd060e_o_d.png&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;É uma sensação interessante essa de modificar um mapa que pode ser utilizado por qualquer pessoa do mundo. Parecido com a primeira vez que eu editei alguma coisa na &lt;a href=&quot;http://pt.wikipedia.org/wiki/Wikip%C3%A9dia:P%C3%A1gina_principal&quot; rel=&quot;nofollow&quot;&gt;wikipedia&lt;/a&gt; (faz tempo...).&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&quot;&quot; src=&quot;/sites/ubalab.org/files/images/ilha.gif&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;Uma boa surpresa nessa segunda verificação foi descobrir que existem outras pessoas mapeando Ubatuba. Dá pra ver quem são e o que fizeram na página de &lt;a href=&quot;http://www.openstreetmap.org/browse/changesets?bbox=-45.1139%2C-23.4512%2C-45.014%2C-23.4032&quot; rel=&quot;nofollow&quot;&gt;histórico da região&lt;/a&gt;. Bom saber que não estou sozinho da região (e que a galera está mandando ver!).&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-taxonomy-vocabulary-1 field-type-taxonomy-term-reference field-label-above&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Tags:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/category/tags/drupal&quot;&gt;drupal&lt;/a&gt;&lt;/div&gt;&lt;div class=&quot;field-item odd&quot;&gt;&lt;a href=&quot;/tag/mapas&quot;&gt;mapas&lt;/a&gt;&lt;/div&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/tag/geo&quot;&gt;geo&lt;/a&gt;&lt;/div&gt;&lt;div class=&quot;field-item odd&quot;&gt;&lt;a href=&quot;/tag/openstreetmap&quot;&gt;openstreetmap&lt;/a&gt;&lt;/div&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/tag/ilha-anchieta&quot;&gt;ilha anchieta&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Wed, 12 Oct 2011 00:50:09 +0000</pubDate>
+ <dc:creator>efeefe</dc:creator>
+ <guid isPermaLink="false">47 at http://ubalab.org</guid>
+</item>
+</channel>
+</rss>

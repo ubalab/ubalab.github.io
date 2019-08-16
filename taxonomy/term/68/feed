@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://ubalab.org"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>UbaLab. - energialivre</title>
+ <link>http://ubalab.org/tag/energialivre</link>
+ <description></description>
+ <language>pt-br</language>
+<item>
+ <title>Energia pedalétrica</title>
+ <link>http://ubalab.org/blog/energia-pedaletrica</link>
+ <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;p&gt;A Low Tech Magazine publicou uma série de posts sobre geração de energia com pedais. Eles criticam a solução fácil - suportes para encaixar bicicletas, que têm uma &lt;a href=&quot;http://www.lowtechmagazine.com/2011/05/bike-powered-electricity-generators.html&quot; rel=&quot;nofollow&quot;&gt;eficiência energética muito baixa&lt;/a&gt; (além do fato de que gerar eletricidade sempre resulta em perda de energia no processo). Sugerem que a melhor solução é usar menos eletricidade, mas que quando for mesmo necessário existem maneiras de &lt;a href=&quot;http://www.lowtechmagazine.com/2011/05/pedal-powered-farms-and-factories.html&quot; rel=&quot;nofollow&quot;&gt;desenvolver geradores que aproveitem melhor o esforço&lt;/a&gt; (literalmente).&lt;/p&gt;
+&lt;p&gt;&lt;img width=&quot;500&quot; height=&quot;175&quot; alt=&quot;&quot; src=&quot;http://krisdedecker.typepad.com/.a/6a00e0099229e88833014e87da608b970d-700wi&quot; /&gt;&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-taxonomy-vocabulary-1 field-type-taxonomy-term-reference field-label-above&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Tags:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/tag/energialivre&quot;&gt;energialivre&lt;/a&gt;&lt;/div&gt;&lt;div class=&quot;field-item odd&quot;&gt;&lt;a href=&quot;/tag/lowtech&quot;&gt;lowtech&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Wed, 25 May 2011 15:34:41 +0000</pubDate>
+ <dc:creator>efeefe</dc:creator>
+ <guid isPermaLink="false">34 at http://ubalab.org</guid>
+</item>
+</channel>
+</rss>

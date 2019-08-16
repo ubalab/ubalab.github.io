@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://ubalab.org"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>UbaLab. - fractais</title>
+ <link>http://ubalab.org/tag/fractais</link>
+ <description></description>
+ <language>pt-br</language>
+<item>
+ <title>Mandelbrot, passos, traçados</title>
+ <link>http://ubalab.org/blog/mandelbrot-passos-tracados</link>
+ <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;p&gt;Um dia desses li o &lt;a href=&quot;http://revistapiaui.estadao.com.br/edicao_50/artigo_1458/Intuicoes_fractais.aspx&quot; rel=&quot;nofollow&quot;&gt;artigo na Piauí sobre Benoît Mandelbrot&lt;/a&gt; e esse trecho aqui me deixou pensando nos planos de mapeamento de Ubatuba:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Mandelbrot propôs que se imaginasse uma cena: um homem caminha pelo litoral, sempre o mais perto possível do mar, e a cada passo deixa uma pegada. Quando reencontrar o ponto de origem, a linha que une todas as suas pegadas representará o comprimento da costa. Substitua-se agora o homem por um lagarto. Incapaz de, num só passo, cobrir com suas patas a mesma distância de um passo humano, o bicho terá de levar em conta acidentes que o homem ignorou. Reentrâncias não serão saltadas, mas percorridas. A linha descrita pelo lagarto será mais irregular e mais longa do que a do homem. Mais extensa ainda será a linha da formiga, que perceberá um seixo como relevo, como caminho a ser vencido.&lt;/p&gt;
+&lt;p&gt;A costa da Grã-Bretanha &lt;em&gt;não tem um comprimento intrínseco&lt;/em&gt;, disse Mandelbrot. A medida do homem é antropocêntrica, uma entre tantas outras. O comprimento do litoral dependerá do agrimensor, da abertura do compasso – as pernas do homem, do lagarto, da formiga. Será menor a estimativa para o pássaro do que para o cão. Quanto maior o número de obstáculos percebidos, maior a extensão da costa, que, no limite, &lt;em&gt;tenderá ao infinito&lt;/em&gt;.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Dá pra pensar analogamente na seleção de pontos de interesse para o mapeamento. A perspectiva do fractal mostra que dá pra passar uma vida inteira mapeando um lugar e ainda assim não encerrar as possibilidades.&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-taxonomy-vocabulary-1 field-type-taxonomy-term-reference field-label-above&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Tags:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/category/tags/pre-mapeamento&quot;&gt;pre-mapeamento&lt;/a&gt;&lt;/div&gt;&lt;div class=&quot;field-item odd&quot;&gt;&lt;a href=&quot;/tag/geo&quot;&gt;geo&lt;/a&gt;&lt;/div&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/tag/fractais&quot;&gt;fractais&lt;/a&gt;&lt;/div&gt;&lt;div class=&quot;field-item odd&quot;&gt;&lt;a href=&quot;/tag/mandelbrot&quot;&gt;mandelbrot&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Thu, 09 Dec 2010 02:45:25 +0000</pubDate>
+ <dc:creator>efeefe</dc:creator>
+ <guid isPermaLink="false">19 at http://ubalab.org</guid>
+</item>
+</channel>
+</rss>

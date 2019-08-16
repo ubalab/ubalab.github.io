@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://ubalab.org"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>UbaLab. - território</title>
+ <link>http://ubalab.org/taxonomy/term/348</link>
+ <description></description>
+ <language>pt-br</language>
+<item>
+ <title>MapBiomas</title>
+ <link>http://ubalab.org/node/169</link>
+ <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;p&gt;Aqui uma excelente imagem do território de Ubatuba, tirada do website &lt;a href=&quot;http://mapbiomas.org/map#coverage&quot; rel=&quot;nofollow&quot;&gt;MapBiomas&lt;/a&gt;. Esse tesouro de Mata Atlântica é o que precisamos proteger para as gerações futuras.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://mapbiomas.org/map#coverage&quot; rel=&quot;nofollow&quot;&gt;&lt;img alt=&quot;&quot; src=&quot;http://ubalab.org//drupal7/sites/ubalab.org/files/Captura%20de%20tela%20de%202017-05-10%2020-56-33.png&quot; /&gt;&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-taxonomy-vocabulary-1 field-type-taxonomy-term-reference field-label-above&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Tags:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/tag/mapas&quot;&gt;mapas&lt;/a&gt;&lt;/div&gt;&lt;div class=&quot;field-item odd&quot;&gt;&lt;a href=&quot;/tag/ubatuba&quot;&gt;ubatuba&lt;/a&gt;&lt;/div&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/taxonomy/term/348&quot;&gt;território&lt;/a&gt;&lt;/div&gt;&lt;div class=&quot;field-item odd&quot;&gt;&lt;a href=&quot;/taxonomy/term/349&quot;&gt;ucs&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Thu, 11 May 2017 00:06:13 +0000</pubDate>
+ <dc:creator>efeefe</dc:creator>
+ <guid isPermaLink="false">169 at http://ubalab.org</guid>
+</item>
+</channel>
+</rss>

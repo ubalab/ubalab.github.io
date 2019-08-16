@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://ubalab.org"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>UbaLab. - emails</title>
+ <link>http://ubalab.org/taxonomy/term/374</link>
+ <description></description>
+ <language>pt-br</language>
+<item>
+ <title>Falha no formulário de contato do site UbaLab.</title>
+ <link>http://ubalab.org/node/183</link>
+ <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;p&gt;Por uma falha de configuração, as mensagens enviadas pelo &lt;a href=&quot;/contact&quot; rel=&quot;nofollow&quot;&gt;formulário de contato&lt;/a&gt; do site UbaLab não estavam chegando para nós. Este problema parece estar ocorrendo há meses. Pedimos a quem enviou mensagens neste período que as envie novamente.&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-taxonomy-vocabulary-1 field-type-taxonomy-term-reference field-label-above&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Tags:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/tag/ubalab&quot;&gt;ubalab&lt;/a&gt;&lt;/div&gt;&lt;div class=&quot;field-item odd&quot;&gt;&lt;a href=&quot;/tag/contato&quot;&gt;contato&lt;/a&gt;&lt;/div&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/taxonomy/term/374&quot;&gt;emails&lt;/a&gt;&lt;/div&gt;&lt;div class=&quot;field-item odd&quot;&gt;&lt;a href=&quot;/taxonomy/term/375&quot;&gt;comunicação&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Tue, 02 Jan 2018 23:49:56 +0000</pubDate>
+ <dc:creator>efeefe</dc:creator>
+ <guid isPermaLink="false">183 at http://ubalab.org</guid>
+</item>
+</channel>
+</rss>
