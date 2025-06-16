@@ -1,0 +1,191 @@
+<!DOCTYPE html>
+<html lang="pt-br" dir="ltr">
+
+<!-- Mirrored from ubalab.org/ by HTTrack Website Copier/3.x [XR&CO'2014], Fri, 16 Aug 2019 16:23:43 GMT -->
+<!-- Added by HTTrack --><meta http-equiv="content-type" content="text/html;charset=utf-8" /><!-- /Added by HTTrack -->
+<head>
+  <link rel="profile" href="http://www.w3.org/1999/xhtml/vocab" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="Generator" content="Drupal 7 (http://drupal.org)" />
+<link rel="canonical" href="node/165.html" />
+<link rel="shortlink" href="node/165.html" />
+<link rel="shortcut icon" href="drupal7/sites/ubalab.org/files/icone_0.png" type="image/png" />
+  <title>. | UbaLab.</title>
+  <style>
+@import url("modules/system/system.base1326.css?pwc7q7");
+</style>
+<style>
+@import url("sites/all/modules/views_slideshow/views_slideshow1326.css?pwc7q7");
+</style>
+<style>
+@import url("modules/field/theme/field1326.css?pwc7q7");
+@import url("sites/all/modules/mollom/mollom1326.css?pwc7q7");
+@import url("modules/node/node1326.css?pwc7q7");
+@import url("sites/all/modules/views/css/views1326.css?pwc7q7");
+@import url("sites/all/modules/ckeditor/css/ckeditor1326.css?pwc7q7");
+</style>
+<style>
+@import url("sites/all/modules/ctools/css/ctools1326.css?pwc7q7");
+@import url("sites/all/modules/views_slideshow/contrib/views_slideshow_cycle/views_slideshow_cycle1326.css?pwc7q7");
+</style>
+<link type="text/css" rel="stylesheet" href="http://cdn.jsdelivr.net/bootswatch/3.3.7/yeti/bootstrap.css" media="all" />
+<style>
+@import url("sites/ubalab.org/themes/bootstrap/css/3.3.7/overrides-yeti.min1326.css?pwc7q7");
+@import url("sites/ubalab.org/themes/ubalab_bootstrap/css/style1326.css?pwc7q7");
+</style>
+  <!-- HTML5 element support for IE6-8 -->
+  <!--[if lt IE 9]>
+    <script src="https://cdn.jsdelivr.net/html5shiv/3.7.3/html5shiv-printshiv.min.js"></script>
+  <![endif]-->
+  <script src="http://code.jquery.com/jquery-1.9.1.js"></script>
+<script>window.jQuery || document.write("<script src='sites/all/modules/jquery_update/replace/jquery/1.9/jquery.js'>\x3C/script>")</script>
+<script src="misc/jquery.once7839.js?v=1.2"></script>
+<script src="misc/drupal1326.js?pwc7q7"></script>
+<script src="sites/all/modules/views_slideshow/js/views_slideshowc619.js?v=1.0"></script>
+<script src="http://cdn.jsdelivr.net/bootstrap/3.3.7/js/bootstrap.js"></script>
+<script src="drupal7/sites/ubalab.org/files/languages/pt-br_wZhxrfW7j781TDLjOysZvukWu4F3ZFuQTjyqBcifMAk1326.js?pwc7q7"></script>
+<script src="sites/all/libraries/jquery.cycle/jquery.cycle.all1326.js?pwc7q7"></script>
+<script src="libraries/json2/json21326.js?pwc7q7"></script>
+<script src="libraries/jquery.hoverIntent/jquery.hoverIntent1326.js?pwc7q7"></script>
+<script src="sites/all/modules/views_slideshow/contrib/views_slideshow_cycle/js/views_slideshow_cycle1326.js?pwc7q7"></script>
+<script>jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"ubalab_bootstrap","theme_token":"0dHXb5BzHg0cUD6t5fzAW0oKMJJXSkc8m5hR9kQuNbs","js":{"sites\/ubalab.org\/themes\/bootstrap\/js\/bootstrap.js":1,"\/\/code.jquery.com\/jquery-1.9.1.js":1,"0":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"sites\/all\/modules\/views_slideshow\/js\/views_slideshow.js":1,"\/\/cdn.jsdelivr.net\/bootstrap\/3.3.7\/js\/bootstrap.js":1,"public:\/\/languages\/pt-br_wZhxrfW7j781TDLjOysZvukWu4F3ZFuQTjyqBcifMAk.js":1,"sites\/all\/libraries\/jquery.cycle\/jquery.cycle.all.js":1,"libraries\/json2\/json2.js":1,"libraries\/jquery.hoverIntent\/jquery.hoverIntent.js":1,"sites\/all\/modules\/views_slideshow\/contrib\/views_slideshow_cycle\/js\/views_slideshow_cycle.js":1},"css":{"modules\/system\/system.base.css":1,"sites\/all\/modules\/views_slideshow\/views_slideshow.css":1,"modules\/field\/theme\/field.css":1,"sites\/all\/modules\/mollom\/mollom.css":1,"modules\/node\/node.css":1,"sites\/all\/modules\/views\/css\/views.css":1,"sites\/all\/modules\/ckeditor\/css\/ckeditor.css":1,"sites\/all\/modules\/ctools\/css\/ctools.css":1,"sites\/all\/modules\/views_slideshow\/contrib\/views_slideshow_cycle\/views_slideshow_cycle.css":1,"\/\/cdn.jsdelivr.net\/bootswatch\/3.3.7\/yeti\/bootstrap.css":1,"sites\/ubalab.org\/themes\/bootstrap\/css\/3.3.7\/overrides-yeti.min.css":1,"sites\/ubalab.org\/themes\/ubalab_bootstrap\/css\/style.css":1}},"viewsSlideshow":{"slideshow-slideshow_1":{"methods":{"goToSlide":["viewsSlideshowPager","viewsSlideshowSlideCounter","viewsSlideshowCycle"],"nextSlide":["viewsSlideshowPager","viewsSlideshowSlideCounter","viewsSlideshowCycle"],"pause":["viewsSlideshowControls","viewsSlideshowCycle"],"play":["viewsSlideshowControls","viewsSlideshowCycle"],"previousSlide":["viewsSlideshowPager","viewsSlideshowSlideCounter","viewsSlideshowCycle"],"transitionBegin":["viewsSlideshowPager","viewsSlideshowSlideCounter"],"transitionEnd":[]},"paused":0}},"viewsSlideshowCycle":{"#views_slideshow_cycle_main_slideshow-slideshow_1":{"num_divs":4,"id_prefix":"#views_slideshow_cycle_main_","div_prefix":"#views_slideshow_cycle_div_","vss_id":"slideshow-slideshow_1","effect":"fade","transition_advanced":0,"timeout":5000,"speed":700,"delay":0,"sync":1,"random":0,"pause":1,"pause_on_click":0,"play_on_hover":0,"action_advanced":0,"start_paused":0,"remember_slide":0,"remember_slide_days":1,"pause_in_middle":0,"pause_when_hidden":0,"pause_when_hidden_type":"full","amount_allowed_visible":"","nowrap":0,"pause_after_slideshow":0,"fixed_height":1,"items_per_slide":1,"wait_for_image_load":1,"wait_for_image_load_timeout":3000,"cleartype":0,"cleartypenobg":0,"advanced_options":"{}","advanced_options_choices":0,"advanced_options_entry":""}},"bootstrap":{"anchorsFix":"0","anchorsSmoothScrolling":"0","formHasError":1,"popoverEnabled":1,"popoverOptions":{"animation":1,"html":0,"placement":"right","selector":"","trigger":"click","triggerAutoclose":1,"title":"","content":"","delay":0,"container":"body"},"tooltipEnabled":1,"tooltipOptions":{"animation":1,"html":0,"placement":"auto left","selector":"","trigger":"hover focus","delay":0,"container":"body"}}});</script>
+</head>
+<body class="html front not-logged-in one-sidebar sidebar-second page-node page-node- page-node-165 node-type-page">
+  <div id="skip-link">
+    <a href="#main-content" class="element-invisible element-focusable">Skip to main content</a>
+  </div>
+    <header id="navbar" role="banner" class="navbar container navbar-default">
+  <div class="container">
+    <div class="navbar-header">
+              <a class="logo navbar-btn pull-left" href="index.html" title="Início">
+          <img src="drupal7/sites/ubalab.org/files/logo-ubalab-branco_0.png" alt="Início" />
+        </a>
+      
+      
+              <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#navbar-collapse">
+          <span class="sr-only">Toggle navigation</span>
+          <span class="icon-bar"></span>
+          <span class="icon-bar"></span>
+          <span class="icon-bar"></span>
+        </button>
+          </div>
+
+          <div class="navbar-collapse collapse" id="navbar-collapse">
+        <nav role="navigation">
+                      <ul class="menu nav navbar-nav"><li class="first leaf"><a href="sobre.html" title="Sobre">Sobre</a></li>
+<li class="collapsed"><a href="conteudo/projetos.html" title="Projetos Ubalab">Projetos</a></li>
+<li class="leaf"><a href="blog.html" title="">Blog</a></li>
+<li class="last leaf"><a href="contact.html" title="Contato">Contato</a></li>
+</ul>                                      </nav>
+      </div>
+      </div>
+</header>
+
+<div class="main-container container">
+
+  <header role="banner" id="page-header">
+    
+      <div class="region region-header">
+    <section id="block-views-slideshow-slideshow" class="block block-views clearfix">
+
+      
+  <div class="view view-slideshow view-id-slideshow view-display-id-slideshow view-dom-id-a649d4a08f61b8ef2e029576ec977b96">
+        
+  
+  
+      <div class="view-content">
+      
+  <div class="skin-default">
+    
+    <div id="views_slideshow_cycle_main_slideshow-slideshow_1" class="views_slideshow_cycle_main views_slideshow_main"><div id="views_slideshow_cycle_teaser_section_slideshow-slideshow_1" class="views-slideshow-cycle-main-frame views_slideshow_cycle_teaser_section">
+  <div id="views_slideshow_cycle_div_slideshow-slideshow_1_0" class="views-slideshow-cycle-main-frame-row views_slideshow_cycle_slide views_slideshow_slide views-row-1 views-row-first views-row-odd" >
+  <div class="views-slideshow-cycle-main-frame-row-item views-row views-row-0 views-row-odd views-row-first">
+    
+          <a href="projetos/tropixel.html"><img class="img-responsive" src="drupal7/sites/ubalab.org/files/img_pagina/tropixel.png" width="1200" height="500" alt="" /></a>  </div>
+</div>
+<div id="views_slideshow_cycle_div_slideshow-slideshow_1_1" class="views-slideshow-cycle-main-frame-row views_slideshow_cycle_slide views_slideshow_slide views-row-2 views_slideshow_cycle_hidden views-row-even" >
+  <div class="views-slideshow-cycle-main-frame-row-item views-row views-row-0 views-row-odd">
+    
+          <a href="projetos/transformatorios.html"><img class="img-responsive" src="drupal7/sites/ubalab.org/files/img_pagina/transformatorios.png" width="1200" height="500" alt="" /></a>  </div>
+</div>
+<div id="views_slideshow_cycle_div_slideshow-slideshow_1_2" class="views-slideshow-cycle-main-frame-row views_slideshow_cycle_slide views_slideshow_slide views-row-3 views_slideshow_cycle_hidden views-row-odd" >
+  <div class="views-slideshow-cycle-main-frame-row-item views-row views-row-0 views-row-odd">
+    
+          <a href="projetos/prisma.html"><img class="img-responsive" src="drupal7/sites/ubalab.org/files/img_pagina/prisma-placa-2.png" width="1000" height="563" alt="" /></a>  </div>
+</div>
+<div id="views_slideshow_cycle_div_slideshow-slideshow_1_3" class="views-slideshow-cycle-main-frame-row views_slideshow_cycle_slide views_slideshow_slide views-row-4 views_slideshow_cycle_hidden views-row-last views-row-even" >
+  <div class="views-slideshow-cycle-main-frame-row-item views-row views-row-0 views-row-odd">
+    
+          <a href="projetos/escoladavida.html"><img class="img-responsive" src="drupal7/sites/ubalab.org/files/img_pagina/rect4315.png" width="1019" height="430" alt="" /></a>  </div>
+</div>
+</div>
+</div>
+          <div class="views-slideshow-controls-bottom clearfix">
+        <div id="views_slideshow_slide_counter_slideshow-slideshow_1" class="views-slideshow-slide-counter views_slideshow_slide_counter">
+  <span class="num">1</span> of <span class="total">4</span>
+</div>
+      </div>
+      </div>
+    </div>
+  
+  
+  
+  
+  
+  
+</div>
+</section>
+  </div>
+  </header> <!-- /#page-header -->
+
+  <div class="row">
+
+    
+    <section class="col-sm-9">
+              <div class="highlighted jumbotron">  <div class="region region-highlighted">
+    <section id="block-block-7" class="block block-block clearfix">
+
+      
+  <div align="center"><a href="projetos.html">Educação Aberta | Inovação Cidadã | Tecnologias Livres</a></div>
+
+</section>
+  </div>
+</div>
+                  <a id="main-content"></a>
+                    <h1 class="page-header">.</h1>
+                                                        <article id="node-165" class="node node-page clearfix">
+        </article>
+    </section>
+
+          <aside class="col-sm-3" role="complementary">
+          <div class="region region-sidebar-second">
+    <section id="block-statistics-popular" class="block block-statistics clearfix">
+
+        <h2 class="block-title">Posts mais lidos</h2>
+    
+  <h3>Desde sempre:</h3><ul><li><a href="blog/fast-forward-ffwd-ciudades-creativas-parte-2.html">Fast-Forward (FFWD) - Ciudades Creativas, parte 2</a></li>
+<li><a href="node/165.html" class="active">.</a></li>
+<li><a href="blog/metareciclando-cidades-digitais.html">MetaReciclando as cidades digitais</a></li>
+</ul><br />
+</section>
+  </div>
+      </aside>  <!-- /#sidebar-second -->
+    
+  </div>
+</div>
+
+  <footer class="footer container">
+      <div class="region region-footer">
+    <section id="block-block-8" class="block block-block clearfix">
+
+      
+  <p><a href="sobre.html" rel="nofollow">Sobre o Ubalab</a> | <a href="projetos.html" rel="nofollow">Nossos Projetos</a> | <a href="blog.html" rel="nofollow">Blog</a> | <a href="http://wiki.ubatuba.cc/doku.php?id=ubalab:ubalab" rel="nofollow">Wiki</a> | <a href="http://links.efeefe.me/tags.php/ubalab" rel="nofollow">Coleção de links</a> | <a href="contact.html" rel="nofollow">Entre em contato</a></p>
+</section>
+  </div>
+  </footer>
+  <script src="sites/ubalab.org/themes/bootstrap/js/bootstrap1326.js?pwc7q7"></script>
+</body>
+
+<!-- Mirrored from ubalab.org/ by HTTrack Website Copier/3.x [XR&CO'2014], Fri, 16 Aug 2019 16:24:41 GMT -->
+</html>
